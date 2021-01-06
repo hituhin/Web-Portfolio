@@ -81,7 +81,8 @@ footer p{
 }
 .mid{
     width: 95%;
-    margin: 5px auto;
+    margin: 95px auto;
+
 }
 .pro-box{
     width: 27%;
@@ -100,11 +101,67 @@ footer p{
 }
 .works{
     background-color: #f5f4f4;
+    margin-bottom: 60px;
 }
 
 .work-inquiry{
+    height: 500px;
+    width: 1000px;
+    padding: 50px;
+    margin:auto;
     background-image: url("images/bac.png");
-    background-repeat: no-repeat;
-    background-position: center; 
-    background-size: ;
+    background-repeat:no-repeat;
+    background-position:cover;
+    background-size: 1000px 250px;
+    position: relative;
+    
+}
+.text{
+    color: white;
+    margin-top: 10px;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: px;
+}
+
+.text-h2{
+      display: inline-block;
+      /* margin-top: 20px; */
+}
+.c-btn{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,lightSalmon);
+    padding: 20px 30px; 
+    color: white;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.work-btn{
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    right: 200px;
+}
+    
+.work{
+    margin-top: 250px;
+    margin-left: 65px;
+}
+.SKILLS{
+    background-color: #fcf8e8;
+    
+}
+.footer{
+    text-align: center;
+    font-size: 30px;
+    color: teal;
+}
+footer{
+    text-align: center;
+}
+
+hr{
+    border: 5px solid #cfd3ce;
+    
 }
