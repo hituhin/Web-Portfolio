@@ -73,3 +73,38 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
+.project{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.mid{
+    width: 95%;
+    margin: 5px auto;
+}
+.pro-box{
+    width: 27%;
+    margin: 0px 17px;
+     float: left;
+     
+     /* display: inline-block; */
+    box-shadow: 2px 3px 20px grey;
+    border: 20px solid white;
+    border-radius: 10px;
+ 
+}
+.img{
+    width: 100%;
+    
+}
+.works{
+    background-color: #f5f4f4;
+}
+
+.work-inquiry{
+    background-image: url("images/bac.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: ;
+}
